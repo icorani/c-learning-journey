@@ -5,4 +5,6 @@ int main (void){
     printf("x= %d\n", x);
     printf("addres x = %p\n", (void*)&x);
     return 0;
+    
+    
 }
